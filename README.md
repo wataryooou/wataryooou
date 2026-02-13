@@ -1,6 +1,6 @@
 ## wataryooou
 
-Software Engineer @ LegalOn Technologies
+Software Engineer @ LegalOn Technologies<br>
 Working on design systems and AI-native development tools.
 
 ### Technical Skills
@@ -23,7 +23,7 @@ Working on design systems and AI-native development tools.
 
 ### Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wataryooou&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wataryooou&hide_border=true)
 
 ### Links
 
