@@ -1,6 +1,6 @@
 ## wataryooou
 
-Software Engineer @ LegalOn Technologies<br>
+Senior Software Engineer @ LegalOn Technologies<br>
 Working on design systems and AI-native development tools.
 
 ### Technical Skills
