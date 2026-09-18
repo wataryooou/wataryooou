@@ -1,6 +1,6 @@
 ## wataryooou
 
-Software Engineer @ XXX<br>
+Software Engineer @ CADDi<br>
 Design systems & AI-native dev tools
 
 ### Technical Skills
